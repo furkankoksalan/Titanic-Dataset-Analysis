@@ -27,7 +27,7 @@ Final model achieved 84% accuracy on test data. Most important features were:
 
 ## Kaggle Notebook
 
-[View on Kaggle](https://www.kaggle.com/furkankoksalan/titanic-survival-prediction)
+[View on Kaggle](https://www.kaggle.com/code/furkankoksalan/titanic-survival-prediction-analysis)
 
 ## Requirements
 
